@@ -1,0 +1,15 @@
+PODS:
+  - BAFRouter (1.0.1)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - BAFRouter (= 1.0.1)
+  - Masonry
+
+SPEC CHECKSUMS:
+  BAFRouter: 05f3fda0ab17f78cb6527f5050fa93d76c2a8e98
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: ea4086d74ff115bbb51d29bf1f954486f6689399
+
+COCOAPODS: 1.3.1

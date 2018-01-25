@@ -1,0 +1,6 @@
+framework module BAFRouter {
+  umbrella header "BAFRouter.h"
+
+  export *
+  module * { export * }
+}

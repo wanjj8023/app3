@@ -1,0 +1,1 @@
+../../../../BAFRouter/BAFRouterSDK/BAFRouter.framework/Headers/BAFRouterTipProtocol.h
