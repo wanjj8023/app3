@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T08:35:40.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="96T2ntAebOnaPlsa8PMU" version="24.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-24T09:54:49.484Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="90D5OKtOckdcuss3sHjh" version="24.6.5" type="github" pages="4">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -635,6 +635,253 @@
         </mxCell>
         <mxCell id="4tea_gcEEnMq4hvlwc-w-130" value="装配内容" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="4tea_gcEEnMq4hvlwc-w-127">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="omJ7iw3uu4RIOJ4qlV4o" name="第 3 页">
+    <mxGraphModel dx="1448" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;基础层" style="html=1;whiteSpace=wrap;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="919" width="720" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;业务公共层" style="html=1;whiteSpace=wrap;fillColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="758" width="720" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;业务实现层" style="html=1;whiteSpace=wrap;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="554" width="720" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;宿主层" style="html=1;whiteSpace=wrap;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="40" y="404" width="720" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-10" value="爱奇艺SDK" style="html=1;whiteSpace=wrap;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="939" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-11" value="native工具库" style="html=1;whiteSpace=wrap;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="939" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-12" value="native UI 组件库" style="html=1;whiteSpace=wrap;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="939" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-13" value="数据上报" style="html=1;whiteSpace=wrap;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="939" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-14" value="网络" style="html=1;whiteSpace=wrap;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="580" y="939" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-15" value="工程配置" style="html=1;whiteSpace=wrap;fillColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="60" y="424" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-16" value="基础组件配置" style="html=1;whiteSpace=wrap;fillColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="190" y="424" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-17" value="接口服务注册" style="html=1;whiteSpace=wrap;fillColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="320" y="424" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-18" value="页面路由注册" style="html=1;whiteSpace=wrap;fillColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="450" y="424" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;原生页面&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="60" y="570" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;flutter页面" style="html=1;whiteSpace=wrap;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="370" y="570" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-22" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;web页面" style="html=1;whiteSpace=wrap;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="590" y="570" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-23" value="直播" style="html=1;whiteSpace=wrap;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="70" y="585" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-24" value="点播" style="html=1;whiteSpace=wrap;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="585" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-25" value="赛程" style="html=1;whiteSpace=wrap;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="380" y="585" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-26" value="数据tab" style="html=1;whiteSpace=wrap;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="480" y="585" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-27" value="商城" style="html=1;whiteSpace=wrap;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="600" y="585" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-28" value="活动" style="html=1;whiteSpace=wrap;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="670" y="585" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-29" value="播放" style="html=1;whiteSpace=wrap;fillColor=#66FFB3;" vertex="1" parent="1">
+          <mxGeometry x="270" y="790" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-30" value="支付" style="html=1;whiteSpace=wrap;fillColor=#66FFB3;" vertex="1" parent="1">
+          <mxGeometry x="370" y="790" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-31" value="投屏" style="html=1;whiteSpace=wrap;fillColor=#66FFB3;" vertex="1" parent="1">
+          <mxGeometry x="470" y="790" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-32" value="IM" style="html=1;whiteSpace=wrap;fillColor=#66FFB3;" vertex="1" parent="1">
+          <mxGeometry x="575" y="790" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-33" value="表情/礼物" style="html=1;whiteSpace=wrap;fillColor=#66FFB3;" vertex="1" parent="1">
+          <mxGeometry x="655" y="790" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-34" value="根据不同的业务形态配置&lt;div&gt;app/插件&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="801" y="404" width="210" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-35" value="组件之间完全解耦合&lt;div&gt;只能通过路由调用&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="800" y="554" width="210" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-36" value="抽象的具体功能&lt;div&gt;高内聚 上传依赖调用应该简单&lt;br&gt;&lt;div&gt;不同的业务逻辑通过接口或者配置区分&lt;/div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="800" y="753" width="210" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-37" value="提供基础能力&lt;div&gt;直接依赖使用&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="800" y="919" width="210" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-38" value="路由" style="html=1;whiteSpace=wrap;fillColor=#66FFB3;" vertex="1" parent="1">
+          <mxGeometry x="70" y="790" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsyFkrryyL2N9SPWG2Q-39" value="弹幕" style="html=1;whiteSpace=wrap;fillColor=#66FFB3;" vertex="1" parent="1">
+          <mxGeometry x="170" y="790" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Mo4kaRzqXggZAWGjyD3W" name="第 4 页">
+    <mxGraphModel dx="1448" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;native基础层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="41" y="919" width="379" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;native业务公共层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="758" width="380" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;业务实现层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="554" width="480" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;宿主层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="404" width="720" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-5" value="爱奇艺SDK" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="939" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-6" value="native工具库" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="939" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-7" value="native UI 组件库" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="939" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-8" value="数据上报" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1004.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-9" value="网络" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1004.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-10" value="工程配置" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="424" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-11" value="基础组件配置" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="424" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-12" value="接口服务注册" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="424" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-13" value="页面路由注册" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="424" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;原生页面&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="570" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-16" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;web页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="570" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-17" value="直播" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="585" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-18" value="点播" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="585" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-21" value="商城" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="585" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-22" value="活动" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="585" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-23" value="播放" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="770" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-24" value="支付" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="770" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-25" value="投屏" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="820" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-26" value="IM" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="820" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-27" value="表情/礼物" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-28" value="根据不同的业务形态配置&lt;div&gt;app/插件&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="801" y="404" width="210" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-29" value="组件之间完全解耦合&lt;div&gt;只能通过路由调用&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="554" width="210" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-30" value="抽象的具体功能&lt;div&gt;高内聚 上传依赖调用应该简单&lt;br&gt;&lt;div&gt;不同的业务逻辑通过接口或者配置区分&lt;/div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="760" width="210" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-31" value="提供基础能力&lt;div&gt;直接依赖使用&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="919" width="210" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-32" value="路由" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="770" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-33" value="弹幕" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="770" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-34" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;flutter基础层&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="924" width="310" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-35" value="flutter工具库" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="939" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-36" value="flutter组件库" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="939" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-37" value="网络" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1004.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-38" value="图片" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1004.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-40" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;flutter业务公共层&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="760" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-41" value="播放" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="770" width="110" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-42" value="动画" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="770" width="110" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-43" value="弹幕" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="824" width="110" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-44" value="..." style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="824" width="110" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-46" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;业务实现层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="540" y="554" width="220" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;flutter页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="570" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-19" value="赛程" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="585" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1JaCkmzpSSbYA0UrDqGN-20" value="数据tab" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="585" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
