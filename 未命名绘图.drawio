@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T09:57:33.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="9MlSNNsw7uEHyvQB5pN_" version="24.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" version="24.7.6" pages="5">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -882,6 +882,107 @@
         </mxCell>
         <mxCell id="1JaCkmzpSSbYA0UrDqGN-20" value="数据tab" style="html=1;whiteSpace=wrap;fillColor=#FFFF33;" vertex="1" parent="1">
           <mxGeometry x="660" y="585" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_DrIOAvp_U53Ywkyelwt" name="第 5 页">
+    <mxGraphModel dx="3102" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O3um-ub1s_7gDj4LUAv--3" value="体育业务独立APP&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="160" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--4" value="爱奇艺APP体育业务插件" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="160" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--5" value="iPhone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--6" value="iPad" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--7" value="Gphone（&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;折叠屏&lt;/span&gt;）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--8" value="Gpad" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--10" value="鸿蒙Phone" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--11" value="鸿蒙Pad" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--12" value="专题频道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--13" value="视频列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--14" value="赛程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--15" value="数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--16" value="直播/回看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--18" value="点播" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--19" value="搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--20" value="支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--21" value="沉浸式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--22" value="礼物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--23" value="表情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--24" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--25" value="弹幕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--26" value="广告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--27" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--28" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--29" value="Flutter" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--30" value="iOS" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--31" value="Android" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--32" value="鸿蒙" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--34" value="基础层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3um-ub1s_7gDj4LUAv--35" value="公共层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkL26MCzoWkibELYCdfP-1" value="公共层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="880" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
