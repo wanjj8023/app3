@@ -967,13 +967,13 @@
           <mxGeometry x="-40" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O3um-ub1s_7gDj4LUAv--30" value="iOS" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="-40" y="437" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O3um-ub1s_7gDj4LUAv--31" value="Android" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="-40" y="602" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O3um-ub1s_7gDj4LUAv--32" value="鸿蒙" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="-40" y="757" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O3um-ub1s_7gDj4LUAv--34" value="基础层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-160" y="880" width="80" height="40" as="geometry" />
@@ -981,8 +981,23 @@
         <mxCell id="O3um-ub1s_7gDj4LUAv--35" value="公共层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-280" y="880" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DkL26MCzoWkibELYCdfP-1" value="公共层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="DkL26MCzoWkibELYCdfP-1" value="数据抽象层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-400" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PtGsioeZMiy242yAMnM4-1" value="UI逻辑层" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PtGsioeZMiy242yAMnM4-2" value="页面组件" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PtGsioeZMiy242yAMnM4-3" value="功能组件" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PtGsioeZMiy242yAMnM4-4" value="服务组件" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PtGsioeZMiy242yAMnM4-5" value="配置组件" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="880" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
